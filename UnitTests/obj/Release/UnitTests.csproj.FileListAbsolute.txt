@@ -1,0 +1,138 @@
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\animations\startup.txt
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\bundles\FileDialog.txt
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\bundles\splash.txt
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\fonts\arial.ttf
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\fonts\cour.ttf
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\fonts\maven_pro_regular.ttf
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\fdFile.png
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\fdFolder.png
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\FileDialog_Active.png
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\FileDialog_Background.png
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\FileDialog_Inactive.png
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\FileDialog_Scroll.png
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\FileDialog_ScrollSmall.png
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\Swinburne.jpg
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\SwinGameAni.png
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\panels\FileDialog.txt
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\maps\map01.txt
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\sounds\error.wav
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\sounds\SwinGameStart.wav
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\SwinGame.icns
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\SwinGame.ico
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\UnitTests.dll
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\MyGame.exe
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\nunit.framework.dll
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\SwinGame.dll
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\MyGame.pdb
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\nunit.framework.xml
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\obj\Release\UnitTests.csprojResolveAssemblyReference.cache
+E:\Luke's documents\Uni\Year 1 Semester 2\OOP\backup 26 9 16\6.3 onward custom program\RTSProject\UnitTests\obj\Release\UnitTests.dll
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\animations\startup.txt
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\bundles\FileDialog.txt
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\bundles\splash.txt
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\fonts\arial.ttf
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\fonts\cour.ttf
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\fonts\maven_pro_regular.ttf
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\fdFile.png
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\fdFolder.png
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\FileDialog_Active.png
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\FileDialog_Background.png
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\FileDialog_Inactive.png
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\FileDialog_Scroll.png
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\FileDialog_ScrollSmall.png
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\Swinburne.jpg
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\SwinGameAni.png
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\panels\FileDialog.txt
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\maps\map01.txt
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\sounds\error.wav
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\sounds\SwinGameStart.wav
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\SwinGame.icns
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\SwinGame.ico
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\UnitTests.dll
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\MyGame.exe
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\nunit.framework.dll
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\SwinGame.dll
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\MyGame.pdb
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\bin\Release\nunit.framework.xml
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\obj\Release\ResolveAssemblyReference.cache
+F:\OOP2016\6.3 onward custom program\RTSProject\UnitTests\obj\Release\UnitTests.dll
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\Images\HomeBase - Copy.png
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\animations\startup.txt
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\bundles\FileDialog.txt
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\bundles\splash.txt
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\fonts\arial.ttf
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\fonts\cour.ttf
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\fonts\maven_pro_regular.ttf
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\fdFile.png
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\fdFolder.png
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\FileDialog_Active.png
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\FileDialog_Background.png
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\FileDialog_Inactive.png
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\FileDialog_Scroll.png
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\FileDialog_ScrollSmall.png
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\Swinburne.jpg
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\SwinGameAni.png
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\panels\FileDialog.txt
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\sounds\error.wav
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\sounds\SwinGameStart.wav
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\SwinGame.icns
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\SwinGame.ico
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\Images\Archery.png
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\maps\map01.txt
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\Images\Barraks.png
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\Images\HomeBase.png
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\Images\Melee.png
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\Images\Ranged.png
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\Images\Resource.png
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\Images\wall.png
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\Images\Worker.png
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\maps\map02.txt
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\src\InGame\Visible\Building.cs
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\UnitTests.dll
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\MyGame.exe
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\nunit.framework.dll
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\SwinGame.dll
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\MyGame.pdb
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\nunit.framework.xml
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\obj\Release\UnitTests.csprojResolveAssemblyReference.cache
+E:\Programming\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\obj\Release\UnitTests.dll
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\Images\HomeBase - Copy.png
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\animations\startup.txt
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\bundles\FileDialog.txt
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\bundles\splash.txt
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\fonts\arial.ttf
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\fonts\cour.ttf
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\fonts\maven_pro_regular.ttf
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\fdFile.png
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\fdFolder.png
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\FileDialog_Active.png
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\FileDialog_Background.png
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\FileDialog_Inactive.png
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\FileDialog_Scroll.png
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\FileDialog_ScrollSmall.png
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\Swinburne.jpg
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\images\SwinGameAni.png
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\panels\FileDialog.txt
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\sounds\error.wav
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\sounds\SwinGameStart.wav
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\SwinGame.icns
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\SwinGame.ico
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\Images\Archery.png
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\maps\map01.txt
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\Images\Barraks.png
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\Images\HomeBase.png
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\Images\Melee.png
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\Images\Ranged.png
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\Images\Resource.png
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\Images\wall.png
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\Images\Worker.png
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\Resources\RTS\maps\map02.txt
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\src\InGame\Visible\Building.cs
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\UnitTests.dll
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\MyGame.exe
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\nunit.framework.dll
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\SwinGame.dll
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\MyGame.pdb
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\bin\Release\nunit.framework.xml
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\obj\Release\ResolveAssemblyReference.cache
+F:\OOP2016\backup 4 10 16\6.3 onward custom program\RTSProject\UnitTests\obj\Release\UnitTests.dll

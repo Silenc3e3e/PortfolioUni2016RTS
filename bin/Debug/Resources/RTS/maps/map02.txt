@@ -1,0 +1,91 @@
+NOTE:details H B A
+NOTE:r5 5
+NOTE:r5 21
+NOTE:r21 21
+NOTE:r21 5
+r13 13
+r13 6
+r13 20
+r6 13
+r20 13
+
+t1 8 3 8 1 6
+t8 1 8 3 6 1
+t18 1 18 3 20 1
+t25 8 23 8 25 6
+t25 18 23 18 25 20
+t18 25 18 23 20 25
+t8 25 8 23 6 25
+t1 18 3 18 1 20
+d26 26
+NOTE:TopLeft corner
+f1 1 3 3
+f1 4 2 4
+f4 1 4 2
+w1 5
+w5 1
+NOTE:TopRight corner
+f23 1 25 3
+f22 1 22 2
+f24 4 25 4
+w21 1
+w25 5
+NOTE:BottomRight corner
+f23 23 25 25
+f22 24 22 25
+f24 22 25 22
+w21 25
+w25 21
+NOTE:BottomLeft corner
+f1 23 3 25
+f1 22 2 22
+f4 24 4 25
+w1 21
+w5 25
+NOTE:Dividing walls
+f8 13 10 13
+f16 13 18 13
+f13 8 13 10
+f13 16 13 18
+
+NOTE:Top
+f10 2 10 6
+f16 2 16 6
+f10 7 16 7
+f12 1 12 5
+f14 1 14 5
+NOTE:Left
+f2 10 6 10
+f2 16 6 16
+f7 10 7 16
+f1 12 5 12
+f1 14 5 14
+NOTE:Right
+f20 10 24 10
+f20 16 24 16
+f19 10 19 16
+f21 12 25 12
+f21 14 25 14
+NOTE:Bottom
+f16 20 16 24
+f10 20 10 24
+f10 19 16 19
+f12 21 12 25
+f14 21 14 25
+
+NOTE:topRight MazeLike
+f9 11 11 11
+f11 9 11 10
+w8 8
+NOTE:topLeft MazeLike
+f15 9 15 11
+f16 11 17 11
+w18 8
+NOTE:bottomRight MazeLike
+f15 15 15 17
+f16 15 17 15
+w18 18
+NOTE:bottomLeft MazeLike
+f9 15 11 15
+f11 16 11 17
+w8 18
